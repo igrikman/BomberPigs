@@ -1,7 +1,19 @@
 fileFormatVersion: 2
 guid: bbb419079e7d1cc43aeefb074ce5f71e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 748373261593968425
+    second: dog_angry_0
+  - first:
+      213: -2359721649071251821
+    second: dog_angry_1
+  - first:
+      213: 5361668627280901228
+    second: dog_angry_2
+  - first:
+      213: 6612374894605627977
+    second: dog_angry_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -101,7 +113,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: dog_angry_0
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1373
+        width: 489
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f75b03481c26a00800000000000000
+      internalID: 748373261593968425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_angry_1
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1373
+        width: 488
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e1f4a99a5904fd0800000000000000
+      internalID: -2359721649071251821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_angry_2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 559
+        width: 348
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c643f6c8539786a40800000000000000
+      internalID: 5361668627280901228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_angry_3
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 552
+        width: 335
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942fdaaceefd3cb50800000000000000
+      internalID: 6612374894605627977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
