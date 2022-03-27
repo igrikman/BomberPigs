@@ -8,7 +8,6 @@ public class Sc_SpriteSorter : MonoBehaviour
     [SerializeField] private float offset = 0;
     private int sortingOrderBase = 0;
     private new Renderer renderer;
-
     private void Awake()
     {
         renderer = GetComponent<Renderer>();
